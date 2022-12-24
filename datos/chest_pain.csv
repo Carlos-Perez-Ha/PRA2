@@ -1,5 +1,5 @@
 id_cp,desc_cp
-1, typical angina
-2, atypical angina
-3, non-anginal pain
-4, asymptomatic
+0, typical angina
+1, atypical angina
+2, non-anginal pain
+3, asymptomatic
