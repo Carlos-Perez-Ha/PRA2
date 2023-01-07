@@ -1,5 +1,5 @@
 jupyterlab==3.5.2
 pandas==1.5.2
 matplotlib==3.6.2
-scipy==1.9.3
+scipy==1.10.0
 scikit-learn==1.2.0
