@@ -10,6 +10,7 @@ Práctica 2: ¿Cómo realizar la limpieza y análisis de datos?
 - Heart_attack_analysis.pdf: Memoria de la práctica.
 - requirements.txt: fichero de librerías necesarias para ejecutar el notebook.
 - datos/heart.csv: datos originales
+- datos/processed_data.csv: datos finales analizados.
 - datos/chest_pain.csv: fichero para integración de las descripciones de la variable **cp** 
 - datos/exang.csv: fichero para integración de las descripciones de la variable *exng*
 
